@@ -1,5 +1,5 @@
 # CheckpointAutoRemove
-## Checkpointファイルの自動削除コード
+## Checkpointファイルの自動削除コードサンプル
 
 学習時の中間モデル保存時、  
 「{epoch:03d}-{val_loss:.5f}.hdf5」のようなデータがいっぱいでき上がってしまう。  
