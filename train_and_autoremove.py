@@ -53,7 +53,7 @@ class CheckpointTools(Callback):
             # 古いファイル削除
             self.remove_oldest_file()
 
-# --- Pameter Setting ---
+# --- Parameter Setting ---
 
 # 最大エポック数
 MAX_EPOCH = 100
